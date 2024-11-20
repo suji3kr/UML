@@ -25,7 +25,7 @@ Reverse 엔지니어링 -> 역설계
 ![화면 캡처 2024-11-20 160532](https://github.com/user-attachments/assets/d045b916-68ec-46c1-9738-2bd93b7272ee)
 
 
->* <b>아래의 해당 클래스 다이어그램으로 자바 코드로 변경하는 방법<br><br><br> ![화면 캡처 2024-11-20 161013](https://github.com/user-attachments/assets/5d98a4a9-ba3e-4308-93cd-c0695443934e) 
+>* <b>아래의 해당 클래스 다이어그램을 자바 코드로 변경하는 과정 <br><br><br> ![화면 캡처 2024-11-20 161013](https://github.com/user-attachments/assets/5d98a4a9-ba3e-4308-93cd-c0695443934e) 
 ![화면 캡처 2024-11-20 161658](https://github.com/user-attachments/assets/69adb736-93c0-4c4a-8df5-ee4a56f79cde)
 ![화면 캡처 2024-11-20 161723](https://github.com/user-attachments/assets/177458ee-7b03-4b94-8b8f-0731e9ddf082)
 ![화면 캡처 2024-11-20 160945](https://github.com/user-attachments/assets/d08046d5-1887-4f07-a37a-f77de64a65d1)

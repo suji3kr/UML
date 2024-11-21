@@ -16,11 +16,11 @@ public class Smart Phone {
     public void Attribute1;
 
     public void amartPhone() {
-
+        // TODO implement here
     }
 
     public String usingPeopleinfo() {
-
+        // TODO implement here
         return "";
     }
 

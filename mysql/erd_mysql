@@ -1,0 +1,12 @@
+SET FOREIGN_KEY_CHECKS = 0;
+DROP TABLE IF EXISTS `Person`;
+SET FOREIGN_KEY_CHECKS = 1;
+
+CREATE TABLE `Person` (
+    `person_id` INT NOT NULL,
+    `name` VARCHAR(45) NOT NULL,
+    `surname` varchar(45) NOT NULL,
+    `birthday` Date NOT NULL,
+    `sex` varchar(6) NOT NULL,
+    `salary` DECIMAL NOT NULL
+);

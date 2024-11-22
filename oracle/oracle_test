@@ -1,0 +1,9 @@
+DROP TABLE `T member` CASCADE CONSTRAINTS;
+
+CREATE TABLE `T member` (
+    `id` varchar2(10) NOT NULL,
+    `pw` varchar2(10) NOT NULL,
+    `name` varchar2(50) NOT NULL,
+    `joinDate` date NOT NULL,
+    PRIMARY KEY (`id`)
+);
